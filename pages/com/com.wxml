@@ -1,0 +1,3 @@
+
+
+<view bindtap="tap">hello{{msg}}</view>
